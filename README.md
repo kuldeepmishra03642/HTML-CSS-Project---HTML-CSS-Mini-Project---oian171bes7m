@@ -1,4 +1,4 @@
-# University-Newton-School-Project3
+# University-Newton-School-Project
 
 # Title
 
